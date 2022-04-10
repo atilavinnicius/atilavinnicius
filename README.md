@@ -3,13 +3,13 @@
 - Atualmente no ultimo semestre de Análise e Desenvolvimento de Sistemas
 - Skills:
   ->Front End:
-  * Html, CSS, JavaScript
-  * Angular
-  * Vue
+    * Html, CSS, JavaScript
+    * Angular
+    * Vue
   ->Back End:
-  * Laravel
-  * Spring
-  * Node
+    * Laravel utilização de migrations para manipulação de banco de dados
+    * Spring
+    * Node
   -> Banco de dados
   * Mysql
   * Postgres
