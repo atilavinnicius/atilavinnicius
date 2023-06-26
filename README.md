@@ -1,18 +1,18 @@
 - 👋 Opa tudo bem?, sou Átila Vinnicius
-- 👀 Grande admirador da Tecnologia
-- Atualmente no ultimo semestre de Análise e Desenvolvimento de Sistemas
+- 👀 Grande admirador da Tecnologia/Programador
+- Residente de TI TCMRIO/UFRN
+  * C#, .NET, LINQ, SQLSERVER, Padrão CQRS, REPOSITORIES
 - Skills:
   ->Front End:
-    * Html, CSS, JavaScript
-    * Angular(httpclient, models, routes, modules)
-    * Vue(Aprendendo...)
+    * Html, CSS, JavaScript, Typescript
+    * Angular(httpclient, Models, Routes, Modules)
+    * Vue(Loading)
   ->Back End:
-    * Laravel (Eloquent, migrations, autenticação...)
-    * .Net (Entity Framework, migrations)
-    * Spring
-    * Node
+    * PHP - Laravel (Eloquent, migrations, autenticação[JWT], Apis...)
+    * C#  - .Net (Entity Framework, migrations, autenticação[JWT])
   -> Banco de dados
   * Mysql
+  * SqlServer
   * Postgres
   
   -> Extras
@@ -22,4 +22,3 @@
   * OO
   * JWT
 - 📫 atiladesenvolvedor@gmail.com
-
