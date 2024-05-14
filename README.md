@@ -1,15 +1,14 @@
 - 👋 Opa tudo bem?, sou Átila Vinnicius
 - 👀 Grande admirador da Tecnologia/Programador
 - Atuei no desenvolvimento de um ERP integrado com Api bancária para geração de boletos e pagamentos via Apis
-- Residente de TI TCMRIO/UFRN
-  * C#, .NET, LINQ, SQLSERVER, Padrão CQRS, REPOSITORIES
+- Atualmente Desenvolvedor/Lider Web Laravel 
 - Skills:
   ->Front End:
     * Html, CSS, Bootstrap, JavaScript, Typescript
-    * Angular(Consumo de Apis, PrimeNG)
-    * Vue(Consumo de Apis)
+    * Angular(rotas, PrimeNG)
+    * Vue(rotas)
   ->Back End:
-    * PHP - Laravel (Eloquent, migrations, autenticação[JWT], Consumo de Apis)
+    * PHP - Laravel (Eloquent, migrations, autenticação[JWT], Consumo de Apis, queues, jobs, observers, reverb)
     * C#  - .Net (Entity Framework, migrations, autenticação[JWT])
   -> Banco de dados
   * Mysql
@@ -22,7 +21,7 @@
   * TDD
   * DDD
   * POO
-  * Selenium(Testes automatizados no Front)
   * JWT
+  * Websocket
     
-- 📫 atiladesenvolvedor@gmail.com
+- 📫 dev.avsoriano@gmail.com
